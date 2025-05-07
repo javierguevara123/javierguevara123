@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Mi name is Javier Guevara
 
 <!--
 **javierguevara123/javierguevara123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hey! I am Clay Aldás 👋</h1>
+<h3 align="center"><em>Developer/Teacher</em></h3>
+
+<p align="center">
+  <img src="https://your-image-url.png" alt="Banner" width="600"/>
+</p>
+
+---
+
+🌱 I’m currently working on improving educational platforms.  
+💬 Ask me about programming, education, or technology!  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/tu-perfil)
+
+
