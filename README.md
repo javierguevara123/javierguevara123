@@ -1,5 +1,3 @@
-## Hi there 👋
-## Mi name is Javier Guevara
 
 <!--
 **javierguevara123/javierguevara123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey! I am Clay Aldás 👋</h1>
-<h3 align="center"><em>Developer/Teacher</em></h3>
+<h1 align="center">Hi There! I am Javier Guevara 👋</h1>
+<h3 align="center"><em>Developer/Student</em></h3>
 
 <p align="center">
   <img src="https://your-image-url.png" alt="Banner" width="600"/>
