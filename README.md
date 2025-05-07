@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"><em>Developer/Student</em></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Clay+Aldás;Web+Developer+%26+IT+Student;I+💻+Code+and+Create" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Javier+Guevara;Web+Developer+%26+IT+Student;I+💻+Code+and+Create" alt="Typing SVG" />
 </p>
 
 <p>
