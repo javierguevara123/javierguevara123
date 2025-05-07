@@ -21,6 +21,17 @@ Here are some ideas to get you started:
   <img src="https://your-image-url.png" alt="Banner" width="600"/>
 </p>
 
+<p>
+💻 I truly enjoy programming, especially when it comes to building interactive and dynamic web applications.  
+I'm always excited to explore new tools, frameworks, and coding challenges.
+
+🚀 My main focus is on improving my skills in languages like HTML, CSS, JavaScript, and modern web technologies.  
+I aim to create practical, efficient, and user-friendly digital solutions.
+
+🎯 I'm a firm believer in continuous learning and enjoy sharing knowledge with the tech community.
+
+Thanks for stopping by my profile!
+</p>
 ---
 
 🌱 I’m currently working on improving educational platforms.  
